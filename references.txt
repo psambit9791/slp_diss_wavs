@@ -1,0 +1,54 @@
+TheEmperorAndTheNightingale_02_001						happy	+
+RailwayChildren_Railway_098								happy	+
+RomeoAndJuliet_15_002									anger	-
+Macbeth_24_013											anger	-
+TheGingerbreadMan_04_002								sad		-
+Macbeth_23_007											fear	-
+CleverRabbitAndTheLion_07_001							sad		-
+AndroclesAndTheLion_10_005								surprise+
+TheReluctantDragon_03_001								fear	-
+TheRunawayPancake_16_003								surprise-
+BlackBeauty_Black_010									happy	+
+Macbeth_01_002											neutral	-
+BlackBeauty_Black_071									sad 	-
+LittleRedRidingHood_04_011								neutral	+
+LittleRedRidingHood_20_003								surprise-
+TheGingerbreadMan_23_001								neutral	-
+RomeoAndJuliet_12_007									happy 	+
+TheMusiciansOfBremen_22_001								fear	-
+Macbeth_30_004											fear	-
+Dinosaurs_23_018										neutral	-
+TheBoyWhoCriedWolf_15_005								anger	-
+AndroclesAndTheLion_06_006								surprise+
+TheDragonAndThePhoenix_12_002							happy	+
+Macbeth_11_008											surprise+
+
+AMidsummerNightsDream_13_013							disgust
+AMidsummerNightsDream_14_003							happy
+RailwayChildren_Railway_085								surprise
+TheEmperorAndTheNightingale_18_002						sad
+
+LJ016-0341												anger	-
+LJ049-0145												neutral	+
+LJ018-0179												happy	+
+LJ041-0179												anger	+
+LJ023-0004												sad 	+
+LJ014-0005												sad 	-
+LJ024-0020												anger	-
+LJ046-0239												anger	-
+LJ041-0056												anger	+
+LJ010-0143												disgust	-
+LJ031-0075												sad 	-
+LJ011-0054												surprise+
+LJ005-0035												happy	+
+LJ008-0081												sad 	+
+LJ011-0004												fear	-
+LJ027-0046												neutral	+
+LJ006-0067												disgust	-
+LJ049-0199												fear	+
+LJ015-0197												fear	-
+
+LJ001-0167												disgust
+LJ001-0182												happy
+LJ002-0003												disgust
+LJ002-0205												sad
